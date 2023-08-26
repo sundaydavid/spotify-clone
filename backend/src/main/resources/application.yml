@@ -1,0 +1,3 @@
+apexon:
+    jwt:
+        secret: thisKeyIsSupposedToBeSecret
